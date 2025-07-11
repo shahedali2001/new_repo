@@ -15,9 +15,9 @@ $blobName = "uploadedfile.txt"
 # $resourceGroup = "MyResourceGroup"
 # $location = "EastUS"
 # $storageAccountName = "mystorageaccount2025"  # Must be globally unique & all lowercase
-# $containerName = "mycontainer"
-# $localFilePath = "C:\Users\YourName\Documents\myfile.txt"
-# $blobName = "uploadedfile.txt"
+
+
+# New-AzResourceGroup -Name $resourceGroup -Location $location
 # -------------------------------------------
 # Step 3: Create a Resource Group (if not already created)
 # -------------------------------------------
